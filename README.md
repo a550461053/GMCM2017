@@ -15,6 +15,6 @@ time: 2017/9/16 - 2017/9/20
 3. c++
 
 ## Finish
-5. not finished
+5. not finished, use POM
 6. not finished
 
