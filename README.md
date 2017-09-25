@@ -1,4 +1,4 @@
-# GMCM
+# GMCM2017
 time: 2017/9/16 - 2017/9/20
 
 ## Task
@@ -9,8 +9,12 @@ time: 2017/9/16 - 2017/9/20
 5. use multi-camera to extract and track foreground of video
 6. detect and classify different events of video
 
-## environment
+## Environment
 1. python2.7+opencv2.4
 2. python3.5+opencv3
 3. c++
+
+## Finish
+5. not finished
+6. not finished
 
